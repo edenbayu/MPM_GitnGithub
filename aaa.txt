@@ -1,0 +1,37 @@
+---TA GAME DEV--
+1. RUMUSAN MASALAH -> edukasi interaktif (sejarah, wayang/budaya) // biologi (edukasi game biologi) --> simulasi sel // layanan publik--> pencemaran udara,  limbah di sungai, plastik
+
+2. KORELASI GAME dengan ELEKTRO -> konsentrasi TI
+dengan mengembangkan game, kita secara langsung telah menerapkan ilmu dari mata kuliah diambil
+1. OOP / PBO -> pasti objek
+2. Multimedia Kelazz -> 
+3. Komputasi Cerdas (AI) -> jelas
+4. Algopro
+5. RPL -> 
+6. PAPB
+7. Sistem Pendukung Keputusan -> AI
+8. MPM -> Agile
+
+3. Konsep Game
+-> Mekanisme, ilmu yg dipake, algoritma (pembahasan utama)
+
+4. Pembagian sub judul (1 harus system analyst,)
+-> realistis: 
+asset desainer (UI alek, assest akmal sama bayu)
+programmer: (UI, Game / Event Manager, Object)
+sound designer: saling membantu :)
+survei, olah data survei: 
+
+---------------------------
+Plotingan judul
+---------------------------
+Judul Bersama : Perancangan Game 
+Sub Judul 1: System Analis
+Sub Judul 2: Pengimplementasian algoritma X
+Sub Judul 3: Perancangan blablabla dengan menerapkan algoritma Y
+
+
+kesimpulan 
+1. Pak Arfan: apakah bisa kita membuat "game" sebagai Tugas Akhir?
+2. Pak Yosua: -> bahas teknisnya u/ perancangan game
+3. Pak Enda: beliau dosen mulmed, dari tahun ke tahun belia
